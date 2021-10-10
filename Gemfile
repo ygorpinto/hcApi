@@ -17,6 +17,7 @@ gem 'puma', '~> 3.11'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise', '~> 4.2'
 # Use ActiveStorage variant
+gem "image_processing", ">= 1.2"
 # gem 'mini_magick', '~> 4.8'
 
 # Use Capistrano for deployment
