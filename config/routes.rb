@@ -3,5 +3,5 @@ Rails.application.routes.draw do
     sessions: 'users/sessions'
   }
   resources :announcements
-  root to: 'announcements#index' 
+  root to: 'announcements#index'
 end
